@@ -1,13 +1,13 @@
-###  I'm Konrad - also known as [sartaq] 👋
+###  I'm Konrad - also known as sartaq 👋
 
 ## I'm a Law graduate who decided to start my career in IT.
-- 🌱 I’m currently learning HTML, CSS with goal to progress in frontend
+- 🌱 I’m currently learning HTML, CSS with goal to progress in frontend or backend
 - 👯 I’m looking to gain some work experience to kickstart my career
 - 🥅 2021 Goals: Make some projects to check my skills
 - ⚡ Fun fact: I paint minis!
 
 ### Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+[<img align="left" alt="sartaq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 ### Languages and Tools:
@@ -18,6 +18,5 @@
 
 <br />
 <br />
----
-</details>
+
 [linkedin]: https://www.linkedin.com/in/konrad-chwaszczewski-19ba801ba/
